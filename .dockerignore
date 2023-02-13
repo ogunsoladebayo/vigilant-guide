@@ -1,0 +1,12 @@
+.git
+.cache
+
+node_modules/
+
+Jenkinsfile
+LICENSE
+README.md
+chart/
+dist/
+docs/
+test-report.xml
