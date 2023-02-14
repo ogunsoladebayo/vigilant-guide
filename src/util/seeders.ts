@@ -5,6 +5,7 @@ import orders from "../data/orders.json";
 import { ingredientCostToJson, pizzaPriceToJson } from "./string-util";
 import { Inject } from "typescript-ioc";
 import { LoggerApi } from "../logger";
+import dayjs from "dayjs";
 
 export class Seed {
   @Inject
@@ -91,7 +92,7 @@ export class Seed {
         });
         const ordersToInsert = orders.map((o) => {
           return {
-            ...o,
+            date: dayjs(o.date, "D-MMM-YY").add(1, "day").toISOString(),
             orders: o.orders.map((p) => ({
               pizza_type: pizzaTypeMap[p.pizza_type],
               quantity: p.quantity,

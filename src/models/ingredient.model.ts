@@ -7,11 +7,16 @@ export interface IIngredient extends BaseInterface {
   cost: number;
 }
 
-const IngredientSchema = new Schema<IIngredient>({
-  name: { type: String, required: true },
-  unit: { type: String, required: true },
-  cost: { type: Number, required: true },
-});
+const IngredientSchema = new Schema<IIngredient>(
+  {
+    name: { type: String, required: true },
+    unit: { type: String, required: true },
+    cost: { type: Number, required: true },
+  },
+  {
+    timestamps: { createdAt: "created_at", updatedAt: "updated_at" },
+  }
+);
 
 export const Ingredient = mongoose.model<IIngredient>(
   "Ingredient",

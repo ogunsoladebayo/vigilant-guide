@@ -1,12 +1,12 @@
 import { Inject } from "typescript-ioc";
-import { Arg, FieldResolver, Query, Resolver, Root } from "type-graphql";
+import { Arg, Query, Resolver } from "type-graphql";
 
-import { PizzaType, Recipe } from "../schemas";
+import { FilterInput, PizzaType, SalesReport } from "../schemas";
 import { resolverManager } from "./_resolver-manager";
 import { PizzaApi } from "../services";
 import { IPizzaType } from "../models";
 
-@Resolver((of) => PizzaType)
+@Resolver((of) => SalesReport)
 export class PizzaResolver {
   @Inject
   pizzaService: PizzaApi;
@@ -19,6 +19,14 @@ export class PizzaResolver {
   @Query((returns) => PizzaType, { nullable: true })
   async pizza(@Arg("name") name: string): Promise<IPizzaType | undefined> {
     return this.pizzaService.getPizza(name);
+  }
+
+  @Query((returns) => [SalesReport], { nullable: true })
+  async salesReport(
+    @Arg("filter")
+    filter: FilterInput
+  ): Promise<SalesReport[]> {
+    return this.pizzaService.salesReport(filter);
   }
 
   // @FieldResolver()

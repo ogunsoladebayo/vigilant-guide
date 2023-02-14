@@ -9,14 +9,17 @@ export interface IOrder extends BaseInterface {
   }[];
 }
 
-const OrderSchema = new Schema<IOrder>({
-  date: { type: Date, required: true },
-  orders: [
-    {
-      pizza_type: { type: Types.ObjectId, ref: "PizzaType" },
-      quantity: { type: Number, required: true },
-    },
-  ],
-});
+const OrderSchema = new Schema<IOrder>(
+  {
+    date: { type: Date, required: true },
+    orders: [
+      {
+        pizza_type: { type: Types.ObjectId, ref: "PizzaType" },
+        quantity: { type: Number, required: true },
+      },
+    ],
+  },
+  { timestamps: { createdAt: "created_at", updatedAt: "updated_at" } }
+);
 
 export const Order = mongoose.model<IOrder>("Order", OrderSchema);

@@ -2,15 +2,14 @@ import { default as express } from "express";
 import { Inject } from "typescript-ioc";
 import { AddressInfo } from "net";
 import * as npmPackage from "../package.json";
-import { parseCsvString } from "./util";
 import { LoggerApi } from "./logger";
 import http = require("http");
-import path = require("path");
 import cors = require("cors");
-import { ApolloServer } from "apollo-server-express";
-import { Config } from "apollo-server-core/src/types";
+import { ApolloServer } from "@apollo/server";
 import { GraphQLSchema } from "graphql";
 import { buildGraphqlSchema } from "./schema";
+import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHttpServer";
+import { expressMiddleware } from "@apollo/server/express4";
 
 const config = npmPackage.config || {
   protocol: "http",
@@ -27,21 +26,26 @@ export class ApiServer {
   private server: http.Server = null;
   public PORT: number = +process.env.PORT || npmPackage.config.port;
 
-  constructor(
-    private readonly app: express.Application = express(),
-    apiContext = configApiContext
-  ) {
+  constructor(private readonly app: express.Application = express()) {
     this.logger.apply(this.app);
-    this.app.use(cors());
+    this.app.use(
+      cors(),
+      express.json(),
+      express.urlencoded({ extended: true })
+    );
+    this.server = http.createServer(this.app);
 
     new Promise<ApolloServer>(async (resolve, reject) => {
       try {
         const schema: GraphQLSchema = (await buildGraphqlSchema()) as any;
 
-        const graphqlServer = new ApolloServer({ schema });
+        const graphqlServer = new ApolloServer({
+          schema,
+          plugins: [
+            ApolloServerPluginDrainHttpServer({ httpServer: this.server }),
+          ],
+        });
         await graphqlServer.start();
-
-        graphqlServer.applyMiddleware({ app: this.app });
 
         resolve(graphqlServer);
       } catch (error) {
@@ -49,12 +53,11 @@ export class ApiServer {
       }
     })
       .then((graphqlServer) => {
-        this.logger.info(
-          "Graphql server started: " + graphqlServer.graphqlPath
-        );
+        this.app.use(expressMiddleware(graphqlServer));
+        this.logger.info("Graphql server started: ");
       })
       .catch((error) => {
-        this.logger.error("Error starting graphql server", { error });
+        this.logger.error("Error starting graphql server", error);
       });
   }
 

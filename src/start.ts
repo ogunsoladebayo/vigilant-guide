@@ -24,7 +24,7 @@ export const start = async (): Promise<void> => {
     };
 
     // Stop graceful
-    process.on("SIGTERM", graceful);
-    process.on("SIGINT", graceful);
+    // process.on("SIGTERM", graceful);
+    // process.on("SIGINT", graceful);
   });
 };

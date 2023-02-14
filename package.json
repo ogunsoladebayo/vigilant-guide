@@ -22,7 +22,7 @@
     "prestart": "npm run build",
     "start": "npm run serve",
     "serve": "node dist/src",
-    "start:dev": "ts-node src | pino-pretty",
+    "start:dev": "ts-node src",
     "pact:verify": "ts-node test/pact-verify",
     "pact:publish": "ts-node test/pact-publish",
     "sonarqube:scan": "npm run test && ts-node test/sonarqube-scan"
@@ -30,12 +30,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^3.3.0",
+    "@apollo/server": "^4.3.3",
+    "class-validator": "^0.14.0",
     "cls-hooked": "^4.2.2",
     "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
     "dotenv": "^16.0.3",
     "express-pino-logger": "^6.0.0",
-    "graphql": "^15.5.3",
+    "graphql": "^16.6.0",
     "jaeger-client": "^3.18.1",
     "mongoose": "^6.9.1",
     "opentracing": "^0.14.5",
@@ -43,7 +45,7 @@
     "rxjs": "^7.3.0",
     "superagent": "^6.1.0",
     "tslib": "^2.3.1",
-    "type-graphql": "^1.1.1",
+    "type-graphql": "^2.0.0-beta.1",
     "typescript-ioc": "^3.2.2"
   },
   "devDependencies": {
@@ -64,7 +66,6 @@
     "@types/superagent": "^4.1.12",
     "@types/supertest": "^2.0.11",
     "babel-jest": "^27.1.1",
-    "easygraphql-tester": "^6.0.1",
     "jest": "^27.1.1",
     "jest-plugin-context": "^2.9.0",
     "jest-sonar-reporter": "^2.0.0",

@@ -10,16 +10,19 @@ export interface IPizzaType extends BaseInterface {
   }[];
 }
 
-const PizzaTypeSchema = new Schema<IPizzaType>({
-  name: { type: String, required: true },
-  price: { type: Number, required: true },
-  recipe: [
-    {
-      ingredient: { type: Types.ObjectId, ref: "Ingredient" },
-      quantity: { type: Number, required: true },
-    },
-  ],
-});
+const PizzaTypeSchema = new Schema<IPizzaType>(
+  {
+    name: { type: String, required: true },
+    price: { type: Number, required: true },
+    recipe: [
+      {
+        ingredient: { type: Types.ObjectId, ref: "Ingredient" },
+        quantity: { type: Number, required: true },
+      },
+    ],
+  },
+  { timestamps: { createdAt: "created_at", updatedAt: "updated_at" } }
+);
 
 export const PizzaType = mongoose.model<IPizzaType>(
   "PizzaType",
