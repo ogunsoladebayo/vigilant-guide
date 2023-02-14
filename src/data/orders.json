@@ -1,0 +1,6207 @@
+[
+  {
+    "date": "1-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "date": "2-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "3-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "date": "4-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "date": "5-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 47
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "date": "6-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 15
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 77
+      }
+    ]
+  },
+  {
+    "date": "7-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "8-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "date": "9-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "10-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "11-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "date": "12-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "date": "13-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 88
+      }
+    ]
+  },
+  {
+    "date": "14-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "date": "15-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 33
+      }
+    ]
+  },
+  {
+    "date": "16-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "date": "17-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 47
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "18-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "date": "19-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 91
+      }
+    ]
+  },
+  {
+    "date": "20-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "date": "21-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 64
+      }
+    ]
+  },
+  {
+    "date": "22-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 91
+      }
+    ]
+  },
+  {
+    "date": "23-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "date": "24-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "25-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "26-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "27-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "date": "28-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 18
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "date": "29-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 96
+      }
+    ]
+  },
+  {
+    "date": "30-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "31-Jan-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 18
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 97
+      }
+    ]
+  },
+  {
+    "date": "1-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 79
+      }
+    ]
+  },
+  {
+    "date": "2-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 37
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "3-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 46
+      }
+    ]
+  },
+  {
+    "date": "4-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "5-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 66
+      }
+    ]
+  },
+  {
+    "date": "6-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "date": "7-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "8-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "date": "9-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "date": "10-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 58
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 44
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "11-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 17
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "12-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 85
+      }
+    ]
+  },
+  {
+    "date": "13-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 54
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "date": "14-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 74
+      }
+    ]
+  },
+  {
+    "date": "15-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 42
+      }
+    ]
+  },
+  {
+    "date": "16-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 46
+      }
+    ]
+  },
+  {
+    "date": "17-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "18-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 86
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "19-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 56
+      }
+    ]
+  },
+  {
+    "date": "20-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "date": "21-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "date": "22-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "date": "23-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "24-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 53
+      }
+    ]
+  },
+  {
+    "date": "25-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 14
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 15
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 90
+      }
+    ]
+  },
+  {
+    "date": "26-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "date": "27-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 86
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "date": "28-Feb-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 95
+      }
+    ]
+  },
+  {
+    "date": "1-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "date": "2-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "3-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "date": "4-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 76
+      }
+    ]
+  },
+  {
+    "date": "5-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 69
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "6-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 72
+      }
+    ]
+  },
+  {
+    "date": "7-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "date": "8-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 0
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 94
+      }
+    ]
+  },
+  {
+    "date": "9-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "date": "10-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "date": "11-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 95
+      }
+    ]
+  },
+  {
+    "date": "12-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 96
+      }
+    ]
+  },
+  {
+    "date": "13-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "date": "14-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 71
+      }
+    ]
+  },
+  {
+    "date": "15-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "16-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "17-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 67
+      }
+    ]
+  },
+  {
+    "date": "18-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "19-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 49
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 97
+      }
+    ]
+  },
+  {
+    "date": "20-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 79
+      }
+    ]
+  },
+  {
+    "date": "21-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 44
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 65
+      }
+    ]
+  },
+  {
+    "date": "22-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "23-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 84
+      }
+    ]
+  },
+  {
+    "date": "24-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 6
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 76
+      }
+    ]
+  },
+  {
+    "date": "25-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 32
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 32
+      }
+    ]
+  },
+  {
+    "date": "26-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 55
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 32
+      }
+    ]
+  },
+  {
+    "date": "27-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 63
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "28-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 61
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  },
+  {
+    "date": "29-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "date": "30-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 52
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 47
+      }
+    ]
+  },
+  {
+    "date": "31-Mar-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "1-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "date": "2-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "date": "3-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 77
+      }
+    ]
+  },
+  {
+    "date": "4-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 78
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "5-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 64
+      }
+    ]
+  },
+  {
+    "date": "6-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 59
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "7-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 55
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 68
+      }
+    ]
+  },
+  {
+    "date": "8-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 49
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "date": "9-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 69
+      }
+    ]
+  },
+  {
+    "date": "10-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "date": "11-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "date": "12-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "date": "13-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "date": "14-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 93
+      }
+    ]
+  },
+  {
+    "date": "15-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 59
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "date": "16-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "date": "17-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 88
+      }
+    ]
+  },
+  {
+    "date": "18-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "date": "19-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "date": "20-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "date": "21-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 23
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "date": "22-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 88
+      }
+    ]
+  },
+  {
+    "date": "23-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 23
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 39
+      }
+    ]
+  },
+  {
+    "date": "24-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 6
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "25-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 55
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "26-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 4
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 94
+      }
+    ]
+  },
+  {
+    "date": "27-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 59
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 23
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "date": "28-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 83
+      }
+    ]
+  },
+  {
+    "date": "29-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "date": "30-Apr-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "date": "1-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "2-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 21
+      }
+    ]
+  },
+  {
+    "date": "3-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 47
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "date": "4-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 36
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "5-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 44
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "date": "6-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "date": "7-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 86
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 81
+      }
+    ]
+  },
+  {
+    "date": "8-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "date": "9-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "date": "10-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 63
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "date": "11-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 74
+      }
+    ]
+  },
+  {
+    "date": "12-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "date": "13-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 26
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "14-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 0
+      }
+    ]
+  },
+  {
+    "date": "15-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 47
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 97
+      }
+    ]
+  },
+  {
+    "date": "16-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 58
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "date": "17-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 44
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "date": "18-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 4
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 77
+      }
+    ]
+  },
+  {
+    "date": "19-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 44
+      }
+    ]
+  },
+  {
+    "date": "20-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "date": "21-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 61
+      }
+    ]
+  },
+  {
+    "date": "22-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 58
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 72
+      }
+    ]
+  },
+  {
+    "date": "23-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "date": "24-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "date": "25-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 90
+      }
+    ]
+  },
+  {
+    "date": "26-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 52
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 32
+      }
+    ]
+  },
+  {
+    "date": "27-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 6
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "date": "28-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 61
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "date": "29-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 39
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "30-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "31-May-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "date": "1-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 79
+      }
+    ]
+  },
+  {
+    "date": "2-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 69
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 61
+      }
+    ]
+  },
+  {
+    "date": "3-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 76
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "4-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "5-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 58
+      }
+    ]
+  },
+  {
+    "date": "6-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "7-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 68
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  },
+  {
+    "date": "8-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "date": "9-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "10-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 47
+      }
+    ]
+  },
+  {
+    "date": "11-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "date": "12-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 69
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 58
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 77
+      }
+    ]
+  },
+  {
+    "date": "13-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 14
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 44
+      }
+    ]
+  },
+  {
+    "date": "14-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "15-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "date": "16-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 52
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "date": "17-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 23
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "18-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "19-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 36
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "20-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 91
+      }
+    ]
+  },
+  {
+    "date": "21-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 83
+      }
+    ]
+  },
+  {
+    "date": "22-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 32
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "date": "23-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 63
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "date": "24-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "25-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "date": "26-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 37
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 57
+      }
+    ]
+  },
+  {
+    "date": "27-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 86
+      }
+    ]
+  },
+  {
+    "date": "28-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 79
+      }
+    ]
+  },
+  {
+    "date": "29-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 51
+      }
+    ]
+  },
+  {
+    "date": "30-Jun-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 0
+      }
+    ]
+  },
+  {
+    "date": "1-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "date": "2-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 4
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 76
+      }
+    ]
+  },
+  {
+    "date": "3-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 86
+      }
+    ]
+  },
+  {
+    "date": "4-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 40
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "date": "5-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "6-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "date": "7-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "8-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "date": "9-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 73
+      }
+    ]
+  },
+  {
+    "date": "10-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "date": "11-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 17
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 32
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 47
+      }
+    ]
+  },
+  {
+    "date": "12-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 61
+      }
+    ]
+  },
+  {
+    "date": "13-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 94
+      }
+    ]
+  },
+  {
+    "date": "14-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 44
+      }
+    ]
+  },
+  {
+    "date": "15-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 4
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 24
+      }
+    ]
+  },
+  {
+    "date": "16-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 49
+      }
+    ]
+  },
+  {
+    "date": "17-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  },
+  {
+    "date": "18-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "19-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 22
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 63
+      }
+    ]
+  },
+  {
+    "date": "20-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 47
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 32
+      }
+    ]
+  },
+  {
+    "date": "21-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 36
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 68
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 88
+      }
+    ]
+  },
+  {
+    "date": "22-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 64
+      }
+    ]
+  },
+  {
+    "date": "23-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "date": "24-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 40
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "date": "25-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "date": "26-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 13
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "27-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "28-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 66
+      }
+    ]
+  },
+  {
+    "date": "29-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 68
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 78
+      }
+    ]
+  },
+  {
+    "date": "30-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "date": "31-Jul-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "date": "1-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "2-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 37
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "date": "3-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "4-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 26
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "date": "5-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 87
+      }
+    ]
+  },
+  {
+    "date": "6-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "7-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 73
+      }
+    ]
+  },
+  {
+    "date": "8-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 37
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 78
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "date": "9-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 40
+      }
+    ]
+  },
+  {
+    "date": "10-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "date": "11-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "date": "12-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  },
+  {
+    "date": "13-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 86
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "date": "14-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 24
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "15-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "16-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 39
+      }
+    ]
+  },
+  {
+    "date": "17-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "18-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 86
+      }
+    ]
+  },
+  {
+    "date": "19-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "20-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 39
+      }
+    ]
+  },
+  {
+    "date": "21-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "date": "22-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 39
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 16
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "date": "23-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 69
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "24-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "25-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "date": "26-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 95
+      }
+    ]
+  },
+  {
+    "date": "27-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "28-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 67
+      }
+    ]
+  },
+  {
+    "date": "29-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "date": "30-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 78
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 79
+      }
+    ]
+  },
+  {
+    "date": "31-Aug-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 63
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 67
+      }
+    ]
+  },
+  {
+    "date": "1-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "2-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 26
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "date": "3-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "4-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 17
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "date": "5-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 31
+      }
+    ]
+  },
+  {
+    "date": "6-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 90
+      }
+    ]
+  },
+  {
+    "date": "7-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 41
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 39
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "date": "8-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 93
+      }
+    ]
+  },
+  {
+    "date": "9-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 80
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 97
+      }
+    ]
+  },
+  {
+    "date": "10-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 73
+      }
+    ]
+  },
+  {
+    "date": "11-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 58
+      }
+    ]
+  },
+  {
+    "date": "12-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 34
+      }
+    ]
+  },
+  {
+    "date": "13-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 36
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "date": "14-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "date": "15-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 78
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "16-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "17-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "date": "18-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 37
+      }
+    ]
+  },
+  {
+    "date": "19-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 21
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "date": "20-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 26
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 46
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "date": "21-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "22-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 11
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 67
+      }
+    ]
+  },
+  {
+    "date": "23-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 40
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 53
+      }
+    ]
+  },
+  {
+    "date": "24-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "25-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "date": "26-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "date": "27-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 52
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 14
+      }
+    ]
+  },
+  {
+    "date": "28-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 34
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "date": "29-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 87
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 34
+      }
+    ]
+  },
+  {
+    "date": "30-Sep-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 70
+      }
+    ]
+  },
+  {
+    "date": "1-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "date": "2-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 11
+      }
+    ]
+  },
+  {
+    "date": "3-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "4-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 14
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "date": "5-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 36
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "date": "6-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "date": "7-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "8-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "9-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 33
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 89
+      }
+    ]
+  },
+  {
+    "date": "10-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "11-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 28
+      }
+    ]
+  },
+  {
+    "date": "12-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "13-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 49
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "14-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 31
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "date": "15-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 28
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 36
+      }
+    ]
+  },
+  {
+    "date": "16-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 61
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "17-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 73
+      }
+    ]
+  },
+  {
+    "date": "18-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 100
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "19-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 12
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "20-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 54
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 20
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 48
+      }
+    ]
+  },
+  {
+    "date": "21-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 63
+      }
+    ]
+  },
+  {
+    "date": "22-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 58
+      }
+    ]
+  },
+  {
+    "date": "23-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 35
+      }
+    ]
+  },
+  {
+    "date": "24-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "date": "25-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 10
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 65
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "date": "26-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 32
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 68
+      }
+    ]
+  },
+  {
+    "date": "27-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 2
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 25
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 42
+      }
+    ]
+  },
+  {
+    "date": "28-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 76
+      }
+    ]
+  },
+  {
+    "date": "29-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 27
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "date": "30-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "date": "31-Oct-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 17
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 55
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 82
+      }
+    ]
+  },
+  {
+    "date": "1-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 17
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 18
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "date": "2-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 9
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 52
+      }
+    ]
+  },
+  {
+    "date": "3-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 91
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 41
+      }
+    ]
+  },
+  {
+    "date": "4-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 68
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 68
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 74
+      }
+    ]
+  },
+  {
+    "date": "5-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 16
+      }
+    ]
+  },
+  {
+    "date": "6-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 4
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 59
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 96
+      }
+    ]
+  },
+  {
+    "date": "7-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 15
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 81
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "date": "8-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 39
+      }
+    ]
+  },
+  {
+    "date": "9-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 97
+      }
+    ]
+  },
+  {
+    "date": "10-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 53
+      }
+    ]
+  },
+  {
+    "date": "11-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 93
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "12-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 29
+      }
+    ]
+  },
+  {
+    "date": "13-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 61
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 13
+      }
+    ]
+  },
+  {
+    "date": "14-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 15
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "date": "15-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 55
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 72
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "16-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 60
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "date": "17-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 42
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "18-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 90
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 38
+      }
+    ]
+  },
+  {
+    "date": "19-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 54
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "date": "20-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 85
+      }
+    ]
+  },
+  {
+    "date": "21-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 79
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 78
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 54
+      }
+    ]
+  },
+  {
+    "date": "22-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 26
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 99
+      }
+    ]
+  },
+  {
+    "date": "23-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 86
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 71
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 84
+      }
+    ]
+  },
+  {
+    "date": "24-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 50
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 25
+      }
+    ]
+  },
+  {
+    "date": "25-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 49
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "26-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 69
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 73
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 85
+      }
+    ]
+  },
+  {
+    "date": "27-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 88
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 45
+      }
+    ]
+  },
+  {
+    "date": "28-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 56
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 43
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "date": "29-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 58
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 32
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "date": "30-Nov-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 49
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 15
+      }
+    ]
+  },
+  {
+    "date": "1-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 94
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 59
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 43
+      }
+    ]
+  },
+  {
+    "date": "2-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 77
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 73
+      }
+    ]
+  },
+  {
+    "date": "3-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 70
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 83
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "date": "4-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 48
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "date": "5-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 29
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 19
+      }
+    ]
+  },
+  {
+    "date": "6-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 5
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 19
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 27
+      }
+    ]
+  },
+  {
+    "date": "7-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 82
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 26
+      }
+    ]
+  },
+  {
+    "date": "8-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 97
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "date": "9-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 38
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "date": "10-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 0
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "11-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "12-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "13-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "date": "14-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 23
+      }
+    ]
+  },
+  {
+    "date": "15-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  },
+  {
+    "date": "16-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 44
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 84
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "17-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 88
+      }
+    ]
+  },
+  {
+    "date": "18-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 51
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 67
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 75
+      }
+    ]
+  },
+  {
+    "date": "19-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 35
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 61
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "date": "20-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 64
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 89
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 17
+      }
+    ]
+  },
+  {
+    "date": "21-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 85
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 52
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 98
+      }
+    ]
+  },
+  {
+    "date": "22-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 53
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 62
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 95
+      }
+    ]
+  },
+  {
+    "date": "23-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 7
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 81
+      }
+    ]
+  },
+  {
+    "date": "24-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 3
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 96
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 62
+      }
+    ]
+  },
+  {
+    "date": "25-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 75
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 30
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 56
+      }
+    ]
+  },
+  {
+    "date": "26-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 1
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 99
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 58
+      }
+    ]
+  },
+  {
+    "date": "27-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 57
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 18
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 22
+      }
+    ]
+  },
+  {
+    "date": "28-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 92
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 95
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 59
+      }
+    ]
+  },
+  {
+    "date": "29-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 98
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 18
+      }
+    ]
+  },
+  {
+    "date": "30-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 66
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 55
+      }
+    ]
+  },
+  {
+    "date": "31-Dec-22",
+    "orders": [
+      {
+        "pizza_type": "Pepperoni",
+        "quantity": 45
+      },
+      {
+        "pizza_type": "Branco",
+        "quantity": 74
+      },
+      {
+        "pizza_type": "All Dressed",
+        "quantity": 92
+      }
+    ]
+  }
+]

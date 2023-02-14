@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Pepperoni",
+    "recipe": [
+      {
+        "ingredient": "Pepperoni",
+        "quantity": 16
+      },
+      {
+        "ingredient": "Cheese",
+        "quantity": 40
+      },
+      {
+        "ingredient": "Dough",
+        "quantity": 1
+      },
+      {
+        "ingredient": "Sauce",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "All Dressed",
+    "recipe": [
+      {
+        "ingredient": "Pepperoni",
+        "quantity": 8
+      },
+      {
+        "ingredient": "Cheese",
+        "quantity": 30
+      },
+      {
+        "ingredient": "Vegetable",
+        "quantity": 30
+      },
+      {
+        "ingredient": "Dough",
+        "quantity": 1
+      },
+      {
+        "ingredient": "Sauce",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Branco",
+    "recipe": [
+      {
+        "ingredient": "Cheese",
+        "quantity": 90
+      },
+      {
+        "ingredient": "Dough",
+        "quantity": 1
+      },
+      {
+        "ingredient": "Sauce",
+        "quantity": 1
+      }
+    ]
+  }
+]

@@ -6,7 +6,7 @@ export interface IOrder extends BaseInterface {
   orders: {
     pizza_type: Types.ObjectId;
     quantity: number;
-  };
+  }[];
 }
 
 const OrderSchema = new Schema<IOrder>({
