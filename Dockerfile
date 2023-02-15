@@ -5,7 +5,6 @@ WORKDIR /opt/app-root
 COPY package*.json ./
 COPY src src
 COPY src/util/data data
-COPY test test
 COPY tsconfig.json ./
 COPY rest.config ./
 
