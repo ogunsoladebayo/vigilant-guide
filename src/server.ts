@@ -1,15 +1,15 @@
-import { default as express } from "express";
+import express from "express";
 import { Inject } from "typescript-ioc";
 import { AddressInfo } from "net";
 import * as npmPackage from "../package.json";
 import { LoggerApi } from "./logger";
-import http = require("http");
-import cors = require("cors");
+import cors from "cors";
 import { ApolloServer } from "@apollo/server";
 import { GraphQLSchema } from "graphql";
 import { buildGraphqlSchema } from "./schema";
 import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHttpServer";
 import { expressMiddleware } from "@apollo/server/express4";
+import http from "http";
 
 const config = npmPackage.config || {
   protocol: "http",
@@ -23,7 +23,7 @@ export class ApiServer {
   @Inject
   logger: LoggerApi;
   @Inject
-  private server: http.Server = null;
+  private server: http.Server;
   public PORT: number = +process.env.PORT || npmPackage.config.port;
 
   constructor(private readonly app: express.Application = express()) {
@@ -33,7 +33,7 @@ export class ApiServer {
       express.json(),
       express.urlencoded({ extended: true })
     );
-    this.server = http.createServer(this.app);
+    this.server = this.app.listen();
 
     new Promise<ApolloServer>(async (resolve, reject) => {
       try {
@@ -73,7 +73,6 @@ export class ApiServer {
         const address =
           addressInfo.address === "::" ? "localhost" : addressInfo.address;
 
-        // tslint:disable-next-line:no-console
         console.log(`Listening to http://${address}:${addressInfo.port}`);
 
         return resolve(this);

@@ -1,11 +1,12 @@
 import { Ingredient, Order, PizzaType } from "../models";
 import * as fs from "fs";
-import recipe from "../data/recipe.json";
-import orders from "../data/orders.json";
+import recipe from "./data/recipe.json";
+import orders from "./data/orders.json";
 import { ingredientCostToJson, pizzaPriceToJson } from "./string-util";
 import { Inject } from "typescript-ioc";
 import { LoggerApi } from "../logger";
 import dayjs from "dayjs";
+import * as path from "path";
 
 export class Seed {
   @Inject
@@ -15,7 +16,10 @@ export class Seed {
     try {
       const pizzaTypes = await PizzaType.find({});
       if (pizzaTypes.length === 0) {
-        const csv = fs.readFileSync("src/data/price-per-pizza.csv", "utf8");
+        const csv = fs.readFileSync(
+          path.join(__dirname, "data/price-per-pizza.csv"),
+          "utf8"
+        );
         const data = pizzaPriceToJson(csv);
         await PizzaType.insertMany(data.pizza);
         this.logger.info("Pizza types seeded");
@@ -31,7 +35,10 @@ export class Seed {
     try {
       const ingredients = await Ingredient.find({});
       if (ingredients.length === 0) {
-        const csv = fs.readFileSync("src/data/ingredient-costs.csv", "utf8");
+        const csv = fs.readFileSync(
+          path.join(__dirname, "data/ingredient-costs.csv"),
+          "utf8"
+        );
         const data = ingredientCostToJson(csv);
         await Ingredient.insertMany(data.ingredients);
         this.logger.info("Ingredients seeded");
@@ -92,7 +99,7 @@ export class Seed {
         });
         const ordersToInsert = orders.map((o) => {
           return {
-            date: dayjs(o.date, "D-MMM-YY").add(1, "day").toISOString(),
+            date: dayjs(o.date, "D-MMM-YY").toISOString(),
             orders: o.orders.map((p) => ({
               pizza_type: pizzaTypeMap[p.pizza_type],
               quantity: p.quantity,

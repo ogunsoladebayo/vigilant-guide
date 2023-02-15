@@ -34,19 +34,21 @@ export class PizzaService implements PizzaApi {
 
   async salesReport(filter: FilterInput): Promise<SalesReport[]> {
     this.logger.info("Getting sales report");
-
-    const pizzaTypes = filter.pizza_types
+    const date_filter = filter.month
+      ? { $expr: { $eq: [{ $month: "$date" }, filter.month] } }
+      : {
+          date: {
+            $gte: dayjs(filter.period.start_date).startOf("day").toDate(),
+            $lte: dayjs(filter.period.end_date).endOf("day").toDate(),
+          },
+        };
+    const pizza_types = filter.pizza_types
       ? await PizzaType.find({ name: { $in: filter.pizza_types } })
       : await PizzaType.find().exec();
 
     const pipeline = [
       {
-        $match: {
-          date: {
-            $gte: dayjs(filter.period.start_date).toDate(),
-            $lte: dayjs(filter.period.end_date).toDate(),
-          },
-        },
+        $match: date_filter,
       },
       {
         $unwind: "$orders",
@@ -54,7 +56,7 @@ export class PizzaService implements PizzaApi {
       {
         $match: {
           "orders.pizza_type": {
-            $in: pizzaTypes.map((p) => p._id),
+            $in: pizza_types.map((p) => p._id),
           },
         },
       },

@@ -26,13 +26,12 @@ export class PizzaResolver {
     @Arg("filter")
     filter: FilterInput
   ): Promise<SalesReport[]> {
+    if (!filter.period && !filter.month)
+      throw new Error("filter by either period or month filters");
+    if (filter.period && filter.month)
+      throw new Error("You can't use both period and month filters");
     return this.pizzaService.salesReport(filter);
   }
-
-  // @FieldResolver()
-  // async tasks(@Root() projectData: PizzaTypeModel): Promise<IngredientModel[]> {
-  //   return this.taskService.getTasksForProject(projectData.id);
-  // }
 }
 
 resolverManager.registerResolver(PizzaResolver);
