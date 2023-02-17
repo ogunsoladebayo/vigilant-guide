@@ -61,7 +61,7 @@ registerEnumType(Pizza, {
   description: "Pizza types",
 });
 
-enum Month {
+export enum Month {
   JANUARY = 1,
   FEBRUARY = 2,
   MARCH = 3,

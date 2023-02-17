@@ -14,7 +14,7 @@ export class Seed {
 
   async seedPizzaTypes() {
     try {
-      const pizzaTypes = await PizzaType.find({});
+      const pizzaTypes = await PizzaType.find({}).exec();
       if (pizzaTypes.length === 0) {
         const csv = fs.readFileSync(
           path.join(__dirname, "data/price-per-pizza.csv"),
@@ -33,7 +33,7 @@ export class Seed {
 
   async seedIngredients() {
     try {
-      const ingredients = await Ingredient.find({});
+      const ingredients = await Ingredient.find({}).exec();
       if (ingredients.length === 0) {
         const csv = fs.readFileSync(
           path.join(__dirname, "data/ingredient-costs.csv"),
@@ -52,14 +52,12 @@ export class Seed {
 
   async seedRecipes() {
     try {
-      const pizzaTypes = await PizzaType.countDocuments({});
+      const pizzaTypes = await PizzaType.countDocuments({}).exec();
       if (pizzaTypes !== 0) {
-        for (let i = 0; i < recipe.length; i++) {
-          const pizza = recipe[i];
+        for (const pizza of recipe) {
           const recipeArr = [];
 
-          for (let j = 0; j < pizza.recipe.length; j++) {
-            const ingredient = pizza.recipe[j];
+          for (const ingredient of pizza.recipe) {
             const ing = await Ingredient.findOne({
               name: ingredient.ingredient,
             }).exec();
